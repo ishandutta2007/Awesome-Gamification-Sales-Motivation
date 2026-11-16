@@ -1,31 +1,49 @@
-# Awesome-Gamification-Sales-Motivation
+# 🏆 Awesome Gamification & Sales Motivation 🚀
 
-## Top Gamification & Sales Motivation Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Gamification &amp; Sales Motivation Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Sales Contests, Leaderboards & Self-Hosted Motivation Engines*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Gamification-Sales-Motivation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Gamification-Sales-Motivation?style=social&color=white" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Gamification-Sales-Motivation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Gamification-Sales-Motivation?style=social&color=white" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Gamification-Sales-Motivation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Gamification-Sales-Motivation?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Gamification-Sales-Motivation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Gamification & Sales Motivation**. These tools help revenue teams drive performance through competitions, real-time leaderboards, and recognition—covering everything from AI-powered seller activation platforms to open-source gamification engines that bring points, badges, and challenges to your own applications.
+---
 
-**Examples** include Ambition, LevelEleven, Spinify, Hoopla, Centrical, SmartWinnr, GAME (Goals And Motivation Engine), and Gami.Fied (the category leaders).
+## 🌟 Top Gamification & Sales Motivation Ecosystem
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted gamification, open-source motivation engines, and community-driven sales contests—ideal for organizations seeking data sovereignty and avoiding per-user SaaS pricing that compounds across sales teams. The open-source landscape is genuinely functional: **GAME** provides a FastAPI/PostgreSQL engine for goals and rewards , **Gami.Fied** offers a self-hostable gamification platform with a TypeScript SDK for events, XP, leaderboards, and achievements , and **Odoo's CRM Gamification** module brings goal definitions and challenges directly into an existing ERP .
+**Curated Directory of Enterprise SaaS Platforms & Open-Source Motivation Engines**  
+*Focused on Sales Contests, Real-Time Leaderboards, Head-to-Head Brackets & Self-Hosted Gamification Infrastructure*  
+**📅 Last updated: March 2026**
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+This repository tracks notable **SaaS platforms** and **open-source projects** designed for **Gamification & Sales Motivation**. Revenue operations and sales engineering teams utilize these tools to drive rep motivation, track CRM quota attainment, launch dynamic TV leaderboards, run bracket competitions, and embed game mechanics (XP, points, levels, challenges, badges) into enterprise applications.
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
+- [⚖️ Disclaimer](#-disclaimer)
 
-The global gamification market is valued at approximately **$26B–$29B in 2025** and projected to reach **$32B–$36B in 2026** (~25% CAGR), with the dedicated sales gamification and performance management software niche representing **~$4.4B**. The sector is **moderately fragmented**—rather than a single "winner-take-all" monopoly, market share is contested between large enterprise CRM ecosystems (e.g., Zoho, Salesforce) bundling baseline gamification, specialized sales performance/coaching platforms (Ambition, Centrical, LevelEleven), and independent self-hosted/API-driven engines.
+---
 
-## SaaS/Hosted Platforms
+## 📈 Sector Overview & Market Dynamics
+
+The global enterprise gamification market is valued at approximately **$26B–$29B in 2025** and is projected to reach **$32B–$36B in 2026** (~25% CAGR), with dedicated sales gamification and performance management software accounting for **~$4.4B**. The industry is **moderately fragmented**: rather than a single winner-take-all monopoly, the landscape is partitioned across major enterprise CRM suites (e.g., Zoho, Salesforce) providing baseline point and leaderboard gamification, specialized seller activation & coaching platforms (Ambition, Centrical, LevelEleven), and self-hosted developer-friendly open-source frameworks.
+
+---
+
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
 |---------|------------------------------------|-------------------------|--------------------------|-------------|
@@ -40,42 +58,71 @@ The global gamification market is valued at approximately **$26B–$29B in 2025*
 | **[SmartWinnr](https://smartwinnr.com/)** | **~$3.2M ARR** / Bootstrapped & privately held | **$10/user/month** (AppExchange base starting tier; custom enterprise contracts for AI roleplays) | **No self-service free trial or free tier** (personalized product walkthrough and custom proof-of-concept via sales) | **Sales excellence platform combining AI roleplays, gamified microlearning, and sales contests.** Gartner Peer Insights: annual revenue **$50M–$250M**, 51–200 employees. Customers report scaling across **25 countries in 12 languages** with fast ROI. |
 | **[Gametize](https://gametize.com/)** | **~$1M ARR band** / Bootstrapped ($133K early seed funding) | **$45/month** (Starter tier, up to 50 players; Regular tier at $180/month for 200 players) | **Free forever plan** capped at 1 project and up to 10 players with core gamification features (points, badges, leaderboards) | **Gamification platform for community engagement, learning, and sales training.** Create games in **5 minutes with zero coding**—quizzes, predictions, photo challenges, and more. Points, badges, and rewards awarded for every interaction. |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[GAME (Goals And Motivation Engine)](https://github.com/fvergaracl/GAME)** | — | **The most complete open-source gamification engine for goal-driven motivation.** **FastAPI/Python + PostgreSQL**, managed via Poetry. **Keycloak integration** for authentication and RBAC. **Points-to-coins conversion system** with configurable rate. **Kubernetes-ready** with TLS configuration, namespace isolation, and ingress routing . **Docker image available** (`fvergaracl/game`) . **Best for teams wanting a self-hosted gamification backend** that can be embedded into custom sales or employee applications. |
-| **[Gami.Fied](https://www.npmjs.com/package/@gami.fied/sdk)** | — | **Open-source, self-hostable gamification infrastructure with a strictly-typed TypeScript SDK.** **Isomorphic**—runs in Node.js, Next.js, Express, Bun, Deno, and browsers . **Core primitives**: **Events** (track user actions and trigger rules), **XP & Ledgers** (award/deduct points with audit trail), **Leaderboards** (global/project, with user rank), **Achievements & Challenges** (badges, multi-step quests), **Notifications**, and **Webhooks** . **Automatic exponential backoff retries** on transient errors; typed exceptions for auth/validation/rate-limit failures . **Zero external runtime dependencies**—built on native `fetch` . **Best for developers embedding gamification into a product** without building XP and leaderboard logic from scratch . |
-| **[Odoo CRM Gamification](https://github.com/alexmalab/odoo_addons/blob/723c057910d8a7e083f5ce28258064a13c6e2e34/Sales/CRM/gamification_sale_crm.md)** | — | **CRM gamification module for Odoo (LGPL-3).** Defines **goal definitions and challenges** tied directly to CRM data: total invoices, new leads, lead qualification time, and days to close a deal. **Batch assignment by salesperson** via `batch_distinctive_field` and `batch_user_expression` . **Best for organizations already on Odoo** wanting built-in sales gamification without a separate platform . |
-| **[Odoo Sales Team Gamification: Targets & Rewards](https://apps.odoo.com/apps/modules/19.0/digi_sales_gamification_target)** | — | **Third-party Odoo module for real-time target tracking.** **Flexible targets** (monthly/yearly/custom) for individual salespersons. **Dynamic progress bar** appears on Quotations and Sales Orders—salespeople see exactly how close they are to their goal on every deal . **Role-based security** (only Sales Managers/Admins configure targets). **100% free and open source** (LGPL-3) . **Best for Odoo sales teams** wanting lightweight, visual target tracking without a full gamification platform . |
-| **[Meeds DAO](https://github.com/meeds-io/)** | — | **Open-source Web3 community engagement platform with gamification, kudos, and token rewards.** **LGPL-3.0**, Vue.js/Vuetify/Java/Docker. **Gamification module** attributes points to community activity; **Kudos** enables peer-to-peer recognition; **Token Engine** converts points into redeemable tokens; **Wallet** manages payouts . **Docker setup** deploys in minutes . **Best for Web3 communities and DAOs** wanting to reward contributors with on-chain incentives. |
-| **[ohcnetwork/leaderboard](https://github.com/ohcnetwork/leaderboard)** | — | **Flexible, plugin-based open-source leaderboard for tracking contributor activities.** **Plugin architecture** for adding data sources; **multiple views** (leaderboards, profiles, timelines); **MCP Server** for querying with AI assistants; **static export** for deployment anywhere; **fully self-hosted** . **Best for open-source projects and communities** wanting to recognize contributors without a SaaS tool. |
+## 💻 Open-Source GitHub Projects
 
-### Additional Strong Open-Source Options
+Self-hosted gamification backends, motivation engines, and community-driven sales leaderboard frameworks—ideal for teams demanding full data ownership and avoiding recurring per-seat SaaS costs. Repositories are sorted by GitHub Star counts in descending order.
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[NAV-Rewards](https://pypi.org/project/nav-rewards/0.1.1/)** | — | **Python-based rewards engine with six badge types.** **Manual** (peer-assigned), **Automated** (system-triggered), **Achievement** (rule-based thresholds), **Computed** (lottery/random), **Workflow** (multi-step), and **Nomination** (voting-based, e.g. Employee of the Month). Configurable rules for login streaks, attendance, birthdays, and work anniversaries. Cron scheduling for automated awards. PostgreSQL . **Best for teams wanting a customizable rules engine** that can model complex recognition logic. |
-| **[digi_sales_gamification_target](https://apps.odoo.com/apps/modules/19.0/digi_sales_gamification_target)** | — | **Lightweight Odoo module for sales target tracking.** Progress bar on quotations and orders, flexible target periods, role-based configuration. **141 lines of code**—minimal footprint, LGPL-3 . **Best for quick Odoo deployments** where a simple visual target bar is sufficient. |
-
-**Frameworks for building custom systems**: Choose **GAME** for a self-hosted gamification backend with Keycloak auth and Kubernetes support , **Gami.Fied** for a TypeScript SDK to embed XP, leaderboards, and achievements into your own product , or **Odoo CRM Gamification** if you're already on Odoo and want goal definitions tied to CRM data .
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Gamification platforms handle employee performance data and potentially sensitive behavioral metrics; enforce transparent rules, avoid gamifying metrics that incentivize harmful behavior, and comply with applicable employment regulations.
-- **Sales gamification is evolving beyond simple points and leaderboards.** **Ambition's CEO explicitly states "gamification as we know it is broken"** —point systems and leaderboards alone struggle to drive lasting change; bracket-style competitions tied to coaching and real behaviors are the emerging alternative . **LevelEleven's Brackets** and **Ambition's Bracket Competitions** both launched in March 2026, suggesting a category shift toward tournament formats that create urgency through head-to-head matchups rather than distant rankings . **Pricing transparency varies**: Spinify publishes per-user pricing without long-term contracts and offers free "Fan" access for viewers , Hoopla offers a **30-day fully supported free trial** , and Gametize has a **free account tier** . **Open-source options are genuinely functional but require engineering**: GAME needs FastAPI, PostgreSQL, and Keycloak , Gami.Fied requires embedding its SDK into your application , and Odoo modules work only within the Odoo ecosystem . **Validate whether you need a turnkey SaaS platform (Ambition, Spinify, Hoopla) or a self-hosted engine (GAME, Gami.Fied)** before committing.
+| Project | Stars | Tech Stack / License | Description |
+|---------|:-----:|----------------------|-------------|
+| **[GitScrum](https://github.com/gitscrum-core/laravel-gitscrum)** | [![GitHub stars](https://img.shields.io/github/stars/gitscrum-core/laravel-gitscrum?style=social&color=white)](https://github.com/gitscrum-core/laravel-gitscrum/stargazers) | PHP / Laravel (GPL-3.0) | **Gamified project and sprint execution tool.** Combines agile workflows with gamified task completion, badges, effort estimation, and performance leaderboards for sales and product teams. |
+| **[SkillTree](https://github.com/NationalSecurityAgency/skills-service)** | [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/skills-service?style=social&color=white)](https://github.com/NationalSecurityAgency/skills-service/stargazers) | Java / Spring Boot / Vue.js (Apache-2.0) | **Micro-learning and skill-progression gamification platform created by the NSA.** Provides complete REST APIs for skill definitions, achievements, points, levels, and team leaderboards ready to plug into internal sales or ops portals. |
+| **[laravel-gamify](https://github.com/qcod/laravel-gamify)** | [![GitHub stars](https://img.shields.io/github/stars/qcod/laravel-gamify?style=social&color=white)](https://github.com/qcod/laravel-gamify/stargazers) | PHP / Laravel (MIT) | **Reputation points and achievements engine for Laravel applications.** Easily add reputation points, define custom badge criteria, and generate real-time leaderboards for sales reps or community contributors. |
+| **[Level-Up](https://github.com/cjmellor/level-up)** | [![GitHub stars](https://img.shields.io/github/stars/cjmellor/level-up?style=social&color=white)](https://github.com/cjmellor/level-up/stargazers) | PHP / Laravel (MIT) | **Gamification package featuring XP, level progression, and dynamic leaderboards.** Integrates directly into database models to award XP for deals closed, milestone achievements, and leaderboard rankings. |
+| **[gengine (Gamification Engine)](https://github.com/ActiDoo/gamification-engine)** | [![GitHub stars](https://img.shields.io/github/stars/ActiDoo/gamification-engine?style=social&color=white)](https://github.com/ActiDoo/gamification-engine/stargazers) | Python / Flask / PostgreSQL (MIT) | **High-performance gamification rules engine.** Process events and trigger rewards, progression bars, achievements, and leaderboard calculations with low latency via REST APIs. |
+| **[Gioco](https://github.com/joaomdmoura/gioco)** | [![GitHub stars](https://img.shields.io/github/stars/joaomdmoura/gioco?style=social&color=white)](https://github.com/joaomdmoura/gioco/stargazers) | Ruby on Rails (MIT) | **Gamification engine gem for Ruby on Rails.** Easily define badges, types, points systems, and leaderboard rankings with minimal configuration. |
+| **[Meeds DAO](https://github.com/meeds-io/meeds)** | [![GitHub stars](https://img.shields.io/github/stars/meeds-io/meeds?style=social&color=white)](https://github.com/meeds-io/meeds/stargazers) | Vue.js / Java / Docker (LGPL-3.0) | **Open-source community engagement and recognition platform.** Gamification module awards points for team achievements; Kudos enables peer-to-peer recognition; token reward engine converts points into redeemable rewards. |
+| **[Gamification Server](https://github.com/ngageoint/gamification-server)** | [![GitHub stars](https://img.shields.io/github/stars/ngageoint/gamification-server?style=social&color=white)](https://github.com/ngageoint/gamification-server/stargazers) | Java / Spring Boot (Apache-2.0) | **Microservice for tracking gamification elements (points, badges, tags, and leaderboards).** Built by the NGA to provide open gamification APIs that attach to any existing business app or CRM workflow. |
+| **[django-gamification](https://github.com/mattjegan/django-gamification)** | [![GitHub stars](https://img.shields.io/github/stars/mattjegan/django-gamification?style=social&color=white)](https://github.com/mattjegan/django-gamification/stargazers) | Python / Django (BSD-2-Clause) | **Gamification toolkit for Django apps.** Adds points, badges, progress unlockables, and dynamic rank ladders for users with clean ORM integration. |
+| **[Trophy UI](https://github.com/trophyso/ui)** | [![GitHub stars](https://img.shields.io/github/stars/trophyso/ui?style=social&color=white)](https://github.com/trophyso/ui/stargazers) | React / TypeScript / TailwindCSS (MIT) | **Open-source gamification frontend components.** Pre-built React components for leaderboard tables, achievement toasts, streak counters, and reward badges. |
+| **[ohcnetwork/leaderboard](https://github.com/ohcnetwork/leaderboard)** | [![GitHub stars](https://img.shields.io/github/stars/ohcnetwork/leaderboard?style=social&color=white)](https://github.com/ohcnetwork/leaderboard/stargazers) | TypeScript / Next.js (MIT) | **Plugin-based open-source activity leaderboard.** Multiple views (leaderboards, profiles, timelines), static export capabilities, and an MCP server for querying rep rankings with AI assistants. |
+| **[Gami.Fied](https://github.com/gami-fied/gami.fied)** | [![GitHub stars](https://img.shields.io/github/stars/gami-fied/gami.fied?style=social&color=white)](https://github.com/gami-fied/gami.fied/stargazers) | TypeScript / Node.js (MIT) | **Self-hostable gamification infrastructure with an isomorphic TypeScript SDK.** Native primitives for XP ledgers, audit trails, rank leaderboards, multi-step quests, and webhooks with zero runtime dependencies. |
+| **[GAME (Goals And Motivation Engine)](https://github.com/fvergaracl/GAME)** | [![GitHub stars](https://img.shields.io/github/stars/fvergaracl/GAME?style=social&color=white)](https://github.com/fvergaracl/GAME/stargazers) | Python / FastAPI / PostgreSQL (MIT) | **Complete open-source motivation and goal engine.** Features Keycloak RBAC authentication, points-to-coins conversion, Kubernetes deployment manifests, and Docker images. |
+| **[Odoo CRM Gamification](https://github.com/alexmalab/odoo_addons/blob/723c057910d8a7e083f5ce28258064a13c6e2e34/Sales/CRM/gamification_sale_crm.md)** | [![GitHub stars](https://img.shields.io/github/stars/alexmalab/odoo_addons?style=social&color=white)](https://github.com/alexmalab/odoo_addons/stargazers) | Python / Odoo (LGPL-3.0) | **Native CRM gamification module for Odoo.** Defines goal definitions and challenges tied directly to CRM data: total invoices, new leads, lead qualification time, and days to close a deal. |
 
 ---
 
-**Made for sales leaders, revenue operations teams, and developers building motivation infrastructure.**  
-Let's make gamification and sales motivation more open, effective, and data-driven.
+## 🤝 How to Contribute
+
+Contributions are welcome! Help us keep this directory up-to-date with new SaaS platforms, features, pricing tiers, and open-source motivation engines:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch**: `git checkout -b add-gamification-tool`.
+3. 📝 **Add or update entries** in `README.md` following the existing format.
+4. 💡 **Include essential details**: Name, official link, transparent pricing / free-tier limits (for SaaS), star count badge (for open source), and factual description.
+5. 🚀 **Submit a Pull Request** with a concise explanation.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated ecosystem helpful for your sales operations, engineering team, or research:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues in RevOps, Sales Enablement, and Software Engineering.
+- ☕ **Support continuous updates and maintenance**: Buy me a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your sponsorship and stars keep this project actively maintained, thoroughly researched, and open for the community!
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Gamification-Sales-Motivation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Gamification-Sales-Motivation&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an official vendor endorsement.
+- Gamification platforms handle employee performance data and potentially sensitive behavioral metrics; ensure transparent guidelines, avoid gamifying metrics that incentivize counter-productive behavior, and comply with all applicable employment regulations.
+- **Sales gamification is evolving beyond simple points and leaderboards.** Bracket-style competitions tied to coaching, pipeline creation, and real CRM outcomes are rapidly replacing static leaderboards.
+- **Validate your infrastructure requirements**: Decide whether you require an all-in-one turnkey SaaS platform (Ambition, Spinify, Hoopla) or a self-hosted engine (GAME, Gami.Fied, SkillTree, GitScrum) for complete data sovereignty before committing resources.
+
+---
+
+<p align="center">
+  <b>Built for sales leaders, revenue operations teams, and developers engineering motivation systems.</b><br/>
+  Let's make gamification and sales motivation more open, transparent, and performance-driven.
+</p>
